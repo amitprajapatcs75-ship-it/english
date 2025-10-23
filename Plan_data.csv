@@ -1,0 +1,6 @@
+name,description,price,retail_price,storage_capacity,billing_frequency,status
+personal plan,personal plan description test,200,150,32,Monthly,true
+family plan,family plan description test,300,150,42,Monthly,true
+premium plan,premium plan description test,400,150,32,Monthly,true
+normal plan,normal plan description test,200,150,32,Monthly,true
+test plan,test plan description test,100,150,32,Monthly,true

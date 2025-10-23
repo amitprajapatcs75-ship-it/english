@@ -1,0 +1,1 @@
+from notification.serializers.fcm import FcmTokenSerializer
